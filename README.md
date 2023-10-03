@@ -1,1 +1,1 @@
-# call_api_2_endpoints_python
+# API with 2 endpoints to send an email through AWS SES
